@@ -1,5 +1,11 @@
 # TimeSkin
 
+✨ Poetic example
+
+If the universe were a canvas, the laws of physics would be the colors.
+• TimeSkin is the texture of paper: sometimes smooth, sometimes rough, sometimes folded.
+• Depending on that texture, the same colors behave differently.
+
 **EN** Framework for Adaptive Physics Simulations 
 ## Overview
 *TimeSkin* is a computational and conceptual framework designed to model adaptive physical laws based on local space-time contexts, inspired by advances in relativity, quantum mechanics, and modern cosmology (2025)
@@ -98,6 +104,12 @@ This project is licensed under the MIT License (LICENSE), allowing free use, mod
 •⁠ ⁠*GitHub*: vicms1
 
 ······· 
+✨ Ejemplo poético
+
+Si el universo fuese un lienzo, las leyes físicas serían los colores.
+	•	TimeSkin es la textura del papel: a veces liso, a veces rugoso, a veces doblado.
+	•	Según esa textura, los mismos colores se comportan distinto.
+
 
 **ES** Framework para Simulaciones de Leyes Físicas Adaptativas: 
 ## Descripción General
