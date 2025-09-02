@@ -77,7 +77,8 @@ String moodskin = (entanglement > 0.7) ? "wonder" : "stability";
 System.out.println("🎨 TimeSkin on: " + TimeSkin + ", Texture: " + paperTexture);
 System.out.println("⏳ ω_t adjusted: " + omega_t);
 System.out.println("🌟 MoodSkin: " + moodskin); /* https://github.com/vicms1/MoodSkin */
-}
+	
+	}
 }
 ⁠
 
