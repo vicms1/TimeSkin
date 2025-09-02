@@ -10,6 +10,16 @@ If the universe were a canvas, the laws of physics would be the colors.
 ## Overview
 *TimeSkin* is a computational and conceptual framework designed to model adaptive physical laws based on local space-time contexts, inspired by advances in relativity, quantum mechanics, and modern cosmology (2025)
 
+TimeSkin is a theoretical construct that you've been modeling with me within Momentary Physics 3.0 – Crayolas That Write Equations. 
+
+In a nutshell:
+• It's a "skin" of time, a contextual layer that envelops and modulates how physical laws are perceived or applied at a given moment and place.
+• It's inspired by contemporary physics phenomena:
+• General relativity: the local curvature of space-time.
+• Quantum mechanics: entanglement and nonlocality.
+• Cosmology: Big Bang bounces, Hubble tensions, Einstein rings.
+• It functions as an adaptable framework (local_law_F) in which laws are not totally universal and rigid, but vary depending on the context: speed, gravity, quantum interaction, or even perception.
+
 This framework uses dynamic simulations to explore how the "textures" of the universe (curvature, velocity, entanglement) shape the laws of physics, while MoodSkin captures the human perception of these phenomena. Imagine the universe as a canvas: TimeSkin is the texture of the paper, and colors (physical laws) behave differently depending on that texture.
 
 This repository contains the codebase, simulation examples, and documentation for implementing and experimenting with TimeSkin in scientific or educational projects.
@@ -114,6 +124,16 @@ Si el universo fuese un lienzo, las leyes físicas serían los colores.
 **ES** Framework para Simulaciones de Leyes Físicas Adaptativas: 
 ## Descripción General
 *TimeSkin* es un framework computacional y conceptual diseñado para modelar leyes físicas adaptativas en función de contextos locales del espacio-tiempo, inspirado en los avances de la relatividad, la mecánica cuántica y la cosmología moderna (2025).
+
+TimeSkin es una construcción teórica que has ido modelando conmigo dentro de Física Momentánea 3.0 – Crayolas que escriben ecuaciones. 
+
+En pocas palabras:
+	•	Es una “piel” del tiempo, una capa contextual que envuelve y modula cómo se perciben o aplican las leyes físicas en un instante y lugar determinados.
+	•	Se inspira en fenómenos de la física contemporánea:
+	•	Relatividad general: la curvatura local del espacio-tiempo.
+	•	Mecánica cuántica: entrelazamiento y no-localidad.
+	•	Cosmología: rebotes del Big Bang, tensiones de Hubble, anillos de Einstein.
+	•	Funciona como un marco adaptable (F_ley_local) en el cual las leyes no son totalmente universales y rígidas, sino que varían según el contexto: velocidad, gravedad, interacción cuántica o incluso percepción.
 
 Este framework utiliza simulaciones dinámicas para explorar cómo las "texturas" del universo (curvatura, velocidad, entrelazamiento) moldean las leyes físicas, mientras MoodSkin captura la percepción humana de estos fenómenos. Imagina el universo como un lienzo: TimeSkin es la textura del papel, y los colores (leyes físicas) se comportan distinto según esa textura.
 
