@@ -1,0 +1,19 @@
+# Archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación
+/out/
+/bin/
+/build/
+/target/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
