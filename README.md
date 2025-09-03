@@ -81,6 +81,19 @@ System.out.println("🌟 MoodSkin: " + moodskin); /* https://github.com/vicms1/M
 	}
 }
 ⁠
+### 2. `TimeSkinSimulator.java` — Advanced Version
+Extensible simulator that integrates:
+- Curvature (e.g., LHC, Einstein rings)
+- Entanglement (Greene, 2004)
+- Dark matter (nuclear clocks)
+- Water density (TOI-1452 b)
+
+**Run**
+```bash
+javac TimeSkinSimulator.java
+java TimeSkinSimulator
+Send feedback
+
 
 ### Use Cases
 •⁠ ⁠Simulate the relativistic TimeSkin of the LHC (contraction to 4 meters, time dilation).
@@ -195,7 +208,18 @@ public class TimeSkin {
         System.out.println("🌟 MoodSkin: " + moodskin); /* https://github.com/vicms1/MoodSkin */
     }
 }
- ⁠
+
+### 2. `TimeSkinSimulator.java` — versión avanzada
+Simulador extensible que integra:
+- Curvatura (ej: LHC, anillos de Einstein)
+- Entrelazamiento (Greene, 2004)
+- Materia oscura (relojes nucleares)
+- Densidad de agua (TOI-1452 b)
+
+**Ejecutar**
+```bash
+javac TimeSkinSimulator.java
+java TimeSkinSimulator ⁠
 
 ### Casos de uso
 •⁠  ⁠Simular el TimeSkin relativista del LHC (contracción a 4 metros, dilatación del tiempo).
