@@ -46,6 +46,8 @@ To build a computational and poetic framework that serves as an interface betwee
 3. Integrate MoodSkin as a perceptual layer.
 4. Document case studies (TOI-1452b, nuclear clocks, JWST).
 
+— Víctor Moreno Sánchez (author), collaboration: Angélica Bravo Mondragón
+
 
 ESP
 
@@ -94,3 +96,5 @@ Construir un framework computacional + poético que sirva de interfaz entre:
 2. Exportar resultados a CSV para visualización.  
 3. Integrar MoodSkin como capa perceptual.  
 4. Documentar casos de estudio (TOI-1452b, relojes nucleares, JWST).
+
+— Víctor Moreno Sánchez (autor), colaboración: Angélica Bravo Mondragón
